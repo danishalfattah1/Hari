@@ -29,6 +29,9 @@ public class Hari {
                 case 6:
                 System.out.println("Sabtu");
                 break;
+                case 7:
+                System.out.println("Lebaran");
+                break;
                 default:
                 System.out.println("Pick the exact number");
                 
